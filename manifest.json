@@ -1,8 +1,8 @@
 {
-    "file": "lto2_2day.dat",
-    "size": 64746,
-    "crc32": "5621355D",
-    "sha256": "76dd431d99a3f969fdf309fa818a2b4b34451c24c009f039e456b6f2228f8d98",
-    "published": "2022/06/14,07:48:22+03",
-    "valid_days": 2
+    "file": "lto2_7day.dat",
+    "size": 163082,
+    "crc32": "C5C18E7F",
+    "sha256": "167144a24e75a8ea140b15faaf079164c20bdac96c4e3594851af7a2a5ffa730",
+    "published": "2022/06/24,14:33:00+03",
+    "valid_days": 6
 }
